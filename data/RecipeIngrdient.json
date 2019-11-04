@@ -1,0 +1,182 @@
+{
+    "Belgian_Waffles": {
+        "bkgd": "Belgian_Waffles",
+        "people": 6,
+        "time": "45 minutes",
+        "rec": [
+            "Oil the waffle maker.",
+            "Sift the dry ingredients together in a large bowl.",
+            "In separate bowl, separate egg whites and beat until stiff peaks form.",
+            "Mix together the egg yolks, milk , oil , and vanilla , stir slightly."
+        ],
+        "ing": [
+            {
+                "name": "Flour",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Baking Powder",
+                "qty": "4 teaspoons"
+            },
+            {
+                "name": "Salt",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Sugar",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Eggs",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Milk",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vegetable oil",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vanilla",
+                "qty": "2 cups"
+            }
+        ]
+    },
+    "Morning_Smoothies": {
+        "bkgd": "Morning_Smoothies",
+        "people": 2,
+        "time": "10 minutes",
+        "rec": [
+            "Oil the waffle maker.",
+            "Sift the dry ingredients together in a large bowl.",
+            "In separate bowl, separate egg whites and beat until stiff peaks form.",
+            "Mix together the egg yolks, milk , oil , and vanilla , stir slightly."
+        ],
+        "ing": [
+            {
+                "name": "Flour",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Baking Powder",
+                "qty": "4 teaspoons"
+            },
+            {
+                "name": "Salt",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Sugar",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Eggs",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Milk",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vegetable oil",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vanilla",
+                "qty": "2 cups"
+            }
+        ]
+    },
+    "Fruity_Oatmeal": {
+        "bkgd": "Fruity_Oatmeal",
+        "people": 2,
+        "time": "15 minutes",
+        "rec": [
+            "Oil the waffle maker.",
+            "Sift the dry ingredients together in a large bowl.",
+            "In separate bowl, separate egg whites and beat until stiff peaks form.",
+            "Mix together the egg yolks, milk , oil , and vanilla , stir slightly."
+        ],
+        "ing": [
+            {
+                "name": "Flour",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Baking Powder",
+                "qty": "4 teaspoons"
+            },
+            {
+                "name": "Salt",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Sugar",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Eggs",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Milk",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vegetable oil",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vanilla",
+                "qty": "2 cups"
+            }
+        ]
+    },
+    "French_Toast": {
+        "bkgd": "Fruity_Oatmeal",
+        "people": 2,
+        "time": "15 minutes",
+        "rec": [
+            "Oil the waffle maker.",
+            "Sift the dry ingredients together in a large bowl.",
+            "In separate bowl, separate egg whites and beat until stiff peaks form.",
+            "Mix together the egg yolks, milk , oil , and vanilla , stir slightly."
+        ],
+        "ing": [
+            {
+                "name": "Flour",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Baking Powder",
+                "qty": "4 teaspoons"
+            },
+            {
+                "name": "Salt",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Sugar",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Eggs",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Milk",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vegetable oil",
+                "qty": "2 cups"
+            },
+            {
+                "name": "Vanilla",
+                "qty": "2 cups"
+            }
+        ]
+    }
+}

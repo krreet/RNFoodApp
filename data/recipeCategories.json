@@ -1,0 +1,57 @@
+[
+    {
+        "card": "Breakfast",
+        "heading": "start your day right",
+        "bkgd": "Breakfast",
+        "recipes": [
+            "Morning Smoothies",
+            "Fruity Oatmeal",
+            "Belgian Waffles",
+            "French Toast"
+        ]
+    },
+    {
+        "card": "Vegetarian",
+        "heading": "Power Vegetables",
+        "bkgd": "Vegetarian",
+        "recipes": [
+            "Morning Smoothies",
+            "Fruity Oatmeal",
+            "Belgian Waffles",
+            "French Toast"
+        ]
+    },
+    {
+        "card": "Non Vegetarian",
+        "heading": "Muscle Power",
+        "bkgd": "Non_Vegetarian",
+        "recipes": [
+            "Morning Smoothies",
+            "Fruity Oatmeal",
+            "Belgian Waffles",
+            "French Toast"
+        ]
+    },
+    {
+        "card": "Lunch",
+        "heading": "Deliciousness jumping into the mouth",
+        "bkgd": "Lunch",
+        "recipes": [
+            "Morning Smoothies",
+            "Fruity Oatmeal",
+            "Belgian Waffles",
+            "French Toast"
+        ]
+    },
+    {
+        "card": "Dinner",
+        "heading": "The food that lengthens life",
+        "bkgd": "Dinner",
+        "recipes": [
+            "Morning Smoothies",
+            "Fruity Oatmeal",
+            "Belgian Waffles",
+            "French Toast"
+        ]
+    }
+]
